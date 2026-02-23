@@ -11,7 +11,7 @@ int main(){ //program utama
     age = 20;
     age1 = 15;
     
-    cout << "Halo dunia" << endl;
+    cout << "Halo world" << endl;
     cout << 99 << endl;
     cout << age;
     cout << age1;
